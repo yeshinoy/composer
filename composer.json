@@ -1,0 +1,12 @@
+{
+    "name": "yeshinoy/composer",
+    "description": "this is composer demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yeshinoy",
+            "email": "827715982@qq.com"
+        }
+    ],
+    "require": {}
+}
